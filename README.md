@@ -1,0 +1,2 @@
+# rails-templates
+Rails templates
